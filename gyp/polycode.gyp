@@ -9,6 +9,8 @@
           'freetype.gyp:freetype',
           'lua.gyp:lua',
 	      'physfs.gyp:physfs',
+		  'libogg.gyp:ogg',
+		  'libvorbis.gyp:libvorbis',
         ],
       },
     ],

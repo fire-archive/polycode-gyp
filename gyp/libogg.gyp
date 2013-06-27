@@ -73,7 +73,7 @@
     },
 
     {
-      'target_name': 'test',
+      'target_name': 'ogg_test',
       'type': 'executable',
       'dependencies': [ 'ogg' ],
       'sources': [ 'test.c' ]
