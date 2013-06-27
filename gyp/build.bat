@@ -1,0 +1,1 @@
+../third_party/gyp/gyp --depth=0
