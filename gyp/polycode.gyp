@@ -11,6 +11,7 @@
 	      'physfs.gyp:physfs',
 		  'libogg.gyp:ogg',
 		  'libvorbis.gyp:libvorbis',
+		  'openal-soft.gyp:OpenAL32',
         ],
       },
     ],
