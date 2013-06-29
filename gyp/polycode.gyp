@@ -12,6 +12,7 @@
 		  'libogg.gyp:ogg',
 		  'libvorbis.gyp:libvorbis',
 		  'openal-soft.gyp:OpenAL32',
+		  'sdl2.gyp:SDL2',
         ],
       },
     ],
