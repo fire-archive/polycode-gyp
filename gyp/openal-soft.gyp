@@ -38,6 +38,7 @@
 					"_CRT_NONSTDC_NO_DEPRECATE", "strcasecmp=_stricmp", 
 					"strncasecmp=_strnicmp", "snprintf=_snprintf", 
 					"isfinite=_finite", "isnan=_isnan",
+					"HAVE_WINDOWS_H", 
 				]
 			}]
 		],
@@ -66,7 +67,6 @@
 	"targets": [
 		{
 			"type": "<(library)",
-			"product_dir": "../../System",
 			"cflags": [ "-fvisibility=internal", "-pthread" ],
 			"sources": [
 				"<(openal_dir)/OpenAL32/alAuxEffectSlot.c",
@@ -108,7 +108,10 @@
 						"<(openal_dir)/Alc/backends/dsound.c",
 						"<(openal_dir)/Alc/backends/winmm.c"
 					],
-					"libraries": [ "-lwinmm.lib", "-ldsound.lib", "-lshell32.lib" ],
+					"libraries": [ "-lwinmm.lib", "-ldsound.lib", 
+					"-lshell32.lib", "-lole32.lib", 
+					"-lUser32.lib", 
+					],
 					"all_dependent_settings": {
 						"include_dirs": [ "<(openal_dir)/include/AL" ]
 					}
