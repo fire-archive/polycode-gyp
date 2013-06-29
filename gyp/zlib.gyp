@@ -21,7 +21,6 @@
         '../third_party/zlib/inflate.h',
         '../third_party/zlib/inftrees.c',
         '../third_party/zlib/inftrees.h',
-        '../third_party/zlib/mozzconf.h',
         '../third_party/zlib/trees.c',
         '../third_party/zlib/trees.h',
         '../third_party/zlib/uncompr.c',
