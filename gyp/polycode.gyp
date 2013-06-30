@@ -14,6 +14,7 @@
 		  'openal-soft.gyp:OpenAL32',
 		  'sdl2.gyp:SDL2',
 		  'box2d.gyp:box2d',
+		  'bullet.gyp:bullet',
         ],
       },
     ],
