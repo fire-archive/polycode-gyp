@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{C6717C91-4FF3-0F49-BE42-59218E5819AA}</UniqueIdentifier>
+      <UniqueIdentifier>{3E293721-BD08-C047-9654-343875D46895}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\ConvexDecompositionDemo">
-      <UniqueIdentifier>{8F391671-A658-C64C-B4C2-3D3C6573C723}</UniqueIdentifier>
+      <UniqueIdentifier>{8F6EB4C1-E681-994F-A790-3BD2A1193B69}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

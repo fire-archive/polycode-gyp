@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{100E49C6-59DD-C946-9E85-EDE6E0AFB331}</UniqueIdentifier>
+      <UniqueIdentifier>{56B2D208-6B02-2349-9913-2B7124189F9A}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\BulletXmlImportDemo">
-      <UniqueIdentifier>{3ED1622B-7804-8D40-A412-6ECFB1365AC0}</UniqueIdentifier>
+      <UniqueIdentifier>{2833859C-07F3-C84A-95AA-E6BB2EBE8191}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{B74576B7-ADC4-6B44-B31F-CBD468B1068A}</UniqueIdentifier>
+      <UniqueIdentifier>{E4822042-D92A-5C48-90B4-1552861C33C6}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\RollingFrictionDemo">
-      <UniqueIdentifier>{87D3DEA9-3FEA-FC45-ADFE-4BEA88174E7C}</UniqueIdentifier>
+      <UniqueIdentifier>{C59A5710-4ACD-9343-AC70-F61CE9974AAD}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

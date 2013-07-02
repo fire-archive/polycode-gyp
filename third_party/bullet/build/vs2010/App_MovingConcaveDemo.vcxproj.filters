@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{A149CD72-2791-E64D-BAAE-5D103D0DAA5D}</UniqueIdentifier>
+      <UniqueIdentifier>{A117238B-2431-1548-B654-A97E0E6E0EF8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\MovingConcaveDemo">
-      <UniqueIdentifier>{149344F3-B252-7D45-80B6-65F935925B13}</UniqueIdentifier>
+      <UniqueIdentifier>{41D165DC-8368-5546-81AE-4D0188451241}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

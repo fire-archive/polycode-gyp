@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{CE4C3745-D24B-624F-A7FC-9EBD36FFC719}</UniqueIdentifier>
+      <UniqueIdentifier>{3D5DFB24-3EC2-B644-83A3-127443E29AC0}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\ContinuousConvexCollision">
-      <UniqueIdentifier>{C7359104-47C1-B349-AADF-22EAFC880F30}</UniqueIdentifier>
+      <UniqueIdentifier>{BBE5CEFE-D9C0-BC4E-8E2C-ACFA1FDBD9F5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

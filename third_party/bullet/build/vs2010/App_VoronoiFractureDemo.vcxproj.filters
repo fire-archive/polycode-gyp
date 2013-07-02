@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{D0E9ADC3-7EF4-FC40-9859-5BC47E807259}</UniqueIdentifier>
+      <UniqueIdentifier>{62C7565C-D854-7843-88A7-CF6FBB0D30D5}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\VoronoiFractureDemo">
-      <UniqueIdentifier>{176A3399-0C48-4646-BDE1-D7BA160E702F}</UniqueIdentifier>
+      <UniqueIdentifier>{28D6AA47-6A06-B74A-AA3E-09C294CC31CD}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

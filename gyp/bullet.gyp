@@ -31,7 +31,7 @@
     },
     {
       'target_name': 'bullet',
-      'type': 'shared_library',
+      'type': 'static_library',
       'sources': [
         #Bullet multithreaded
         '<(bullet_dir)/src/BulletMultiThreaded/SpuCollisionObjectWrapper.cpp',

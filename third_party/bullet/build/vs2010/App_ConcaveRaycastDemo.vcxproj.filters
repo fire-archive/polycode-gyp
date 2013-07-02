@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{45FB7735-2446-BC47-B833-6585234961D9}</UniqueIdentifier>
+      <UniqueIdentifier>{EB27C1FF-01C4-9540-AE79-5C31B46ADE6A}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\ConcaveRaycastDemo">
-      <UniqueIdentifier>{28AAD5DF-FF27-A244-AB60-A328102DE336}</UniqueIdentifier>
+      <UniqueIdentifier>{6AD53C1A-C8A0-7048-BB32-35200A878F3C}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{8F637160-7056-BF44-91DD-77588AAC77E0}</UniqueIdentifier>
+      <UniqueIdentifier>{0D5FAC3E-9453-364E-86D6-35AEEF9F00CC}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\InternalEdgeDemo">
-      <UniqueIdentifier>{DAF04603-9712-7047-9981-118C17966E78}</UniqueIdentifier>
+      <UniqueIdentifier>{34A9B119-7739-8047-AF1A-93BC52198D43}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

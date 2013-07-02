@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{D51702F8-D47A-4B4D-80AA-F3198412C063}</UniqueIdentifier>
+      <UniqueIdentifier>{CD18B55C-4261-6F44-A296-07017938534A}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\OpenGL">
-      <UniqueIdentifier>{847FC0ED-032F-8B4A-A10C-DC17531D4931}</UniqueIdentifier>
+      <UniqueIdentifier>{1F5DE152-C406-8C4F-B502-570FB1D19DE2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

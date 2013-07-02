@@ -2,13 +2,13 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Extras">
-      <UniqueIdentifier>{0FE20042-A2BB-1844-9A60-4528E9572A29}</UniqueIdentifier>
+      <UniqueIdentifier>{AF476AE0-452A-9645-9200-746E8ED9169D}</UniqueIdentifier>
     </Filter>
     <Filter Include="Extras\Serialize">
-      <UniqueIdentifier>{45346AA9-7BF4-4445-ABF0-3E84AC61F247}</UniqueIdentifier>
+      <UniqueIdentifier>{65886E35-D722-F642-836D-7507FC0408FC}</UniqueIdentifier>
     </Filter>
     <Filter Include="Extras\Serialize\BulletXmlWorldImporter">
-      <UniqueIdentifier>{289FC82E-3FF5-3A4C-8D73-09FC96B3B43B}</UniqueIdentifier>
+      <UniqueIdentifier>{3C68CC5F-1A48-C94C-B0FF-AB6B76853A0A}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{93C6BA25-576E-EF4D-9780-E37EE969C3C9}</UniqueIdentifier>
+      <UniqueIdentifier>{D1A59BB6-D7D0-0D46-A255-F0EE439667E8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\ForkLiftDemo">
-      <UniqueIdentifier>{CCB438CA-77C4-CF47-9B4D-990913FD9319}</UniqueIdentifier>
+      <UniqueIdentifier>{6CBDC034-FA7D-ED40-A723-5A6C9DB72439}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

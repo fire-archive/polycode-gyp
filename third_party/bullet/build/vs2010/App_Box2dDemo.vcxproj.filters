@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{38E29C99-E060-0D48-97CA-6690826D280D}</UniqueIdentifier>
+      <UniqueIdentifier>{6E9AA348-8D88-6543-BD16-856E8FF00CAA}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\Box2dDemo">
-      <UniqueIdentifier>{B13D672E-9CA3-8348-8DBC-46A6E75B4C09}</UniqueIdentifier>
+      <UniqueIdentifier>{35425A53-C165-DB45-B6C9-81A65D452052}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

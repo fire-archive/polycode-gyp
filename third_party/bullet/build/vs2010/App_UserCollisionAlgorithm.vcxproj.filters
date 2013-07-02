@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{0793F509-2DD8-3C45-84AB-CD0EF233769D}</UniqueIdentifier>
+      <UniqueIdentifier>{7783C6AD-4A24-9D40-AB68-ABACDC008656}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\UserCollisionAlgorithm">
-      <UniqueIdentifier>{50EE73D5-5916-8544-9ED5-CA49F143D565}</UniqueIdentifier>
+      <UniqueIdentifier>{A6B6E679-5D40-AE45-8CA4-415D05942C6E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

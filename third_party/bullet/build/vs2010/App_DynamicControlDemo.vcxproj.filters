@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{BFFAA2CB-34B6-1646-B2E4-4DBA81B1FAFF}</UniqueIdentifier>
+      <UniqueIdentifier>{932026E8-79F2-0342-BAC1-4FABD381B9B2}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\DynamicControlDemo">
-      <UniqueIdentifier>{7ADB460F-7AEF-0742-8CA2-27F1E89BE9BD}</UniqueIdentifier>
+      <UniqueIdentifier>{B9FCEC05-EBA0-9A4B-B1BC-0183B603923A}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

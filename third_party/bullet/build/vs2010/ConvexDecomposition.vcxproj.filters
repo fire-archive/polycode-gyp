@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Extras">
-      <UniqueIdentifier>{033687E3-FEC6-1441-85D8-BDC690815DD8}</UniqueIdentifier>
+      <UniqueIdentifier>{43553324-D54F-6446-8112-C1C012C071D3}</UniqueIdentifier>
     </Filter>
     <Filter Include="Extras\ConvexDecomposition">
-      <UniqueIdentifier>{50A9C302-C65B-9346-9215-D1252A8E633C}</UniqueIdentifier>
+      <UniqueIdentifier>{3C5FC52E-77B9-384E-8499-E67D305194BF}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

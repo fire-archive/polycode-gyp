@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{1901AD8A-EFA3-8A4C-AD45-8A9800C3D063}</UniqueIdentifier>
+      <UniqueIdentifier>{322187B3-B5E6-CE45-9FD3-65B5FEFE68E0}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\ConvexHullDistance">
-      <UniqueIdentifier>{07D9AA10-D5C8-BC4D-8E77-57A3A45C5843}</UniqueIdentifier>
+      <UniqueIdentifier>{BDD6C7D1-8EEB-EA4B-8D06-B7829AA16ACC}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

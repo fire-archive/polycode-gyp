@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{B519382F-F7CB-9D43-ABE6-E73B6A9B5567}</UniqueIdentifier>
+      <UniqueIdentifier>{1C05FC6A-4DAF-F04C-A156-D276E42FBCEB}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\GimpactTestDemo">
-      <UniqueIdentifier>{3100DB91-DAFF-0243-8BA0-C1B1A3E4ED15}</UniqueIdentifier>
+      <UniqueIdentifier>{F1336E0E-C612-7A41-9702-A4150D776957}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

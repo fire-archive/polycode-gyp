@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{ACF7B93E-06AB-4245-801B-5489D879EB5D}</UniqueIdentifier>
+      <UniqueIdentifier>{4E675785-614F-F040-B750-53FC029BFA82}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\RaytestDemo">
-      <UniqueIdentifier>{09DD0D0D-0500-8D4C-B303-5B73C2299DC8}</UniqueIdentifier>
+      <UniqueIdentifier>{2FA82257-5EDE-E34E-A201-87B2C194E6AF}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

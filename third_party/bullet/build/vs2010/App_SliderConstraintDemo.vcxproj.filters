@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{FFD99212-7731-0441-AD26-25B3A110642D}</UniqueIdentifier>
+      <UniqueIdentifier>{C4D95241-B0B5-1F4B-94C0-C976A0F8AF3F}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\SliderConstraintDemo">
-      <UniqueIdentifier>{B0E753E9-81DE-7D4C-B56E-518BD80858D4}</UniqueIdentifier>
+      <UniqueIdentifier>{95FFEB90-4246-2741-B63C-D45B42653368}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

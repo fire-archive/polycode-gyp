@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Demos">
-      <UniqueIdentifier>{F01D07AE-88CE-D34C-9C54-87CFD4807426}</UniqueIdentifier>
+      <UniqueIdentifier>{7A7D166D-D601-5644-BC51-9ADE44776443}</UniqueIdentifier>
     </Filter>
     <Filter Include="Demos\EPAPenDepthDemo">
-      <UniqueIdentifier>{6D76E8F8-5FCE-3248-9BEC-E3F35AA9ED62}</UniqueIdentifier>
+      <UniqueIdentifier>{E7F78398-80E9-9348-9081-58442D83E07F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
