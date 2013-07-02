@@ -15,6 +15,7 @@
 		  'sdl2.gyp:SDL2',
 		  'box2d.gyp:box2d',
 		  'bullet.gyp:bullet',
+		  'assimp.gyp:assimp',
         ],
       },
     ],

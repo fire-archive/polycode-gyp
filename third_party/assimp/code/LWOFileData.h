@@ -50,6 +50,7 @@ The chunks are taken from the official LightWave SDK headers.
 // STL headers
 #include <vector>
 #include <list>
+#include <functional>
 
 // public ASSIMP headers
 #include "../include/assimp/mesh.h"
