@@ -1,0 +1,3 @@
+This is a dummy text for the gyp action to download a few headers.
+https://www.opengl.org/registry/api/glext.h
+https://www.opengl.org/registry/api/wglext.h
